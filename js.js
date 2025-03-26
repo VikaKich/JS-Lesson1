@@ -1,3 +1,4 @@
+'use strict';
 //Output information exercises------------------------
 // document.write('Viktoria Kicherman');
 // const myName = { firstname: 'Viktoria', lastname: 'Kicherman' };
